@@ -1,6 +1,6 @@
 #ifndef GIT_EXAMPLE_IMAGE_VIEWER_BITMAPIMAGE_H
 #define GIT_EXAMPLE_IMAGE_VIEWER_BITMAPIMAGE_H
-
+#include "version.h"
 #include <string>
 
 class BitmapImage {
