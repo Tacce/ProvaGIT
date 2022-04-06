@@ -2,6 +2,7 @@
 #define GIT_EXAMPLE_IMAGE_VIEWER_BITMAPIMAGE_H
 #include "version.h"
 #include <string>
+#include <iostream>
 
 class BitmapImage {
 public:

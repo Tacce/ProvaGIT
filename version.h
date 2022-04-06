@@ -5,6 +5,8 @@
 #ifndef GIT_EXAMPLE_IMAGE_VIEWER_VERSION_H
 #define GIT_EXAMPLE_IMAGE_VIEWER_VERSION_H
 
-std::string version = "VERSIONE 1.0"
+#include <string>
+
+std::string version = "VERSIONE 1.0";
 
 #endif //GIT_EXAMPLE_IMAGE_VIEWER_VERSION_H
